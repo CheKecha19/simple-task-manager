@@ -1,0 +1,9 @@
+C:\Users\Andrey\Desktop\курсач v2\bin\Release\CustomizedTaskManager.exe
+C:\Users\Andrey\Desktop\курсач v2\obj\Release\CustomizedTaskManager.frmmain.resources
+C:\Users\Andrey\Desktop\курсач v2\obj\Release\CustomizedTaskManager.Form2.resources
+C:\Users\Andrey\Desktop\курсач v2\obj\Release\CustomizedTaskManager.frmnewprcdetails.resources
+C:\Users\Andrey\Desktop\курсач v2\obj\Release\CustomizedTaskManager.Properties.Resources.resources
+C:\Users\Andrey\Desktop\курсач v2\obj\Release\CustomizedTaskManager.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\курсач v2\obj\Release\CustomizedTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\курсач v2\obj\Release\CustomizedTaskManager.exe
+C:\Users\Andrey\Desktop\курсач v2\obj\Release\CustomizedTaskManager.csprojAssemblyReference.cache
